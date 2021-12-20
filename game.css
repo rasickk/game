@@ -1,0 +1,17 @@
+body {
+    height: 1200px;
+    background: linear-gradient(#e66465, #9198e5);
+
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #88C6F1;
+}
+
+canvas {
+    margin-left: 740px;
+    background-color: #414A4C;
+    margin-top: 200px;
+}
